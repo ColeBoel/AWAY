@@ -1,0 +1,10 @@
+type Todo @model {
+  id: ID!
+  objName: String!
+  email: String
+  joinedWorkplace: Boolean
+  joinCode: Int
+  workplaceName: String
+  uploadData: String
+}
+ 

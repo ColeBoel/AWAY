@@ -1,0 +1,20 @@
+{
+  "amplify": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-checkphonelockstate-master-amplify-163508-authRole",
+      "UnauthRoleArn": "arn:aws:iam::860743923737:role/amplify-checkphonelockstate-master-amplify-163508-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::860743923737:role/amplify-checkphonelockstate-master-amplify-163508-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-checkphonelockstate-master-amplify-163508-deployment",
+      "UnauthRoleName": "amplify-checkphonelockstate-master-amplify-163508-unauthRole",
+      "StackName": "amplify-checkphonelockstate-master-amplify-163508",
+      "StackId": "arn:aws:cloudformation:us-west-2:860743923737:stack/amplify-checkphonelockstate-master-amplify-163508/5a7df010-5ab7-11eb-b070-0a0fd80feed5",
+      "AmplifyAppId": "d2cjockhcbd4yl"
+    },
+    "categories": {
+      "auth": {
+        "checkphonelockstatemaster414103e6": {}
+      }
+    }
+  }
+}

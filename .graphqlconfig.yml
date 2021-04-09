@@ -1,0 +1,29 @@
+projects:
+  away-amp:
+    schemaPath: graphql/schema.json
+    includes:
+      - graphql/**/*.graphql
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: swift
+        generatedFileName: API.swift
+        docsFilePath: graphql
+        region: us-west-2
+        apiId: 4xpqvsp2r5fupoyktxn2vdtnya
+        maxDepth: 2
+  amplifyDatasource:
+    schemaPath: graphql/schema.json
+    includes:
+      - graphql/**/*.graphql
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: swift
+        generatedFileName: API.swift
+        docsFilePath: graphql
+extensions:
+  amplify:
+    version: 3

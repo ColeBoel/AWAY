@@ -1,0 +1,49 @@
+# this is an auto generated file. This will be overwritten
+subscription OnCreateTodo {
+  onCreateTodo {
+    id
+    objName
+    email
+    joinedWorkplace
+    joinCode
+    workplaceName
+    uploadData
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
+subscription OnUpdateTodo {
+  onUpdateTodo {
+    id
+    objName
+    email
+    joinedWorkplace
+    joinCode
+    workplaceName
+    uploadData
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
+subscription OnDeleteTodo {
+  onDeleteTodo {
+    id
+    objName
+    email
+    joinedWorkplace
+    joinCode
+    workplaceName
+    uploadData
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
